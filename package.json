@@ -1,0 +1,24 @@
+{
+  "name": "issue-finder",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinoschroeter/issue-finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinoschroeter/issue-finder/issues"
+  },
+  "homepage": "https://github.com/tinoschroeter/issue-finder#readme",
+  "dependencies": {
+    "octokit": "^1.7.1"
+  }
+}
