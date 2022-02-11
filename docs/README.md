@@ -2,4 +2,4 @@
 
 > Find good first issues on GitHub.
 
-create Personal access token [create](https://github.com/settings/tokens/new)
+[Create Personal access token](https://github.com/settings/tokens/new)
