@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/tinoschroeter/issue-finder#readme",
   "dependencies": {
-    "octokit": "^1.7.1"
+    "octokit": "^3.1.2"
   }
 }
